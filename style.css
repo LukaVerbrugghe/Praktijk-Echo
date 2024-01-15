@@ -1,0 +1,7 @@
+#fotoNaastTekst{
+    display: flex;
+}
+
+#foto{
+    border-image-width: 4px;
+}
